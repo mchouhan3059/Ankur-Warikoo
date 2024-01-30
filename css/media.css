@@ -1,0 +1,191 @@
+@media only screen and (min-width:320px) and (max-width:575px) {
+    .mobile_fixed-ad{
+        position: fixed;
+        width: 100%;
+        background-color: white;
+        bottom: 0;
+        padding: 20px 10px;
+        box-sizing: border-box;
+    }
+    .sub_sec_1-1,
+    .buttons_right_wrap,
+    .sub_sec_1-2,
+    .whyhim,
+    .Cards3,
+    .yesif,
+    .uptop,
+    .bossy,
+    .plans,
+    .certify,
+    .right_wrap,
+    .plan-specs {
+        flex-direction: column;
+        padding: 20px;
+    }
+
+    .sub_sec_1-1,
+    .buttons_right_wrap {
+        gap: 30px;
+    }
+
+    .comparision_table {
+        overflow-x: auto;
+    }
+
+    .certify article {
+        text-align: center;
+    }
+
+    .CardX,
+    .buttons_right_wrap button {
+        width: 100%;
+    }
+
+    .section3 main h2 {
+        font-size: 28px;
+    }
+
+    .focusedargumentbanner {
+        margin: 20px;
+    }
+
+    .sub_sec_2-1>.whyhim>.boxhim {
+        padding: 20px;
+    }
+
+    .switch_off-on {
+        display: block;
+    }
+
+    .switch_on-off {
+        display: none;
+    }
+
+    .buttons_right_wrap button,
+    .left_wrap h2 {
+        margin: 10px 0;
+    }
+
+    .insideCard h5 {
+        font-size: 14px;
+    }
+
+    .newby {
+        flex-basis: 10%;
+        width: 20px;
+        height: 20px;
+        padding: 10px 15px;
+    }
+
+    .comparision_table,
+    .yellowbigbox {
+        margin: 20px;
+    }
+
+    .yellowbigbox {
+        padding: 10px;
+    }
+
+    .yellowbigbox h3 {
+        text-align: left !important;
+        font-size: 20px !important;
+        font-weight: 700;
+    }
+
+    .yellowbigbox .tac p {
+        text-align: left;
+    }
+
+    .FAQS {
+        padding: 30px;
+    }
+
+    #section_3 .tac h3 {
+        font-size: 20px;
+    }
+
+    #section_3 .tac h2 {
+        font-size: 22px;
+    }
+
+    #section_3 .tac article {
+        font-size: 16px;
+    }
+
+    .slider {
+        overflow-x: auto;
+    }
+
+    .plan-specs li svg {
+        width: 64px;
+    }
+
+    .bossthings {
+        padding: 20px 0;
+    }
+}
+
+@media only screen and (min-width:576px) and (max-width:1023px) {
+
+    .sub_sec_1-1,
+    .whyhim,
+    .Cards3,
+    .yesif,
+    .uptop,
+    .bossy,
+    .plans,
+    .certify {
+        flex-direction: column;
+    }
+
+    .slider,
+    .comparision_table {
+        overflow-x: auto;
+    }
+
+    .switch_off-on {
+        display: block;
+    }
+
+    .switch_on-off {
+        display: none;
+    }
+
+    main {
+        padding: 20px;
+    }
+
+    .right_wrap figure {
+        padding: 20px;
+    }
+
+    .buttons_right_wrap button {
+        width: 45%;
+        margin-right: 2.5%;
+        padding: 20px 0;
+    }
+
+    .classy article {
+        align-self: center;
+    }
+
+    .card {
+        flex-basis: 41%;
+    }
+
+    .CardX {
+        flex-basis: 49%;
+    }
+
+    .bossthings {
+        padding: 20px 0;
+    }
+
+    .certify {
+        text-align: center;
+    }
+
+    .bossthings {
+        padding: 20px 0;
+    }
+}
